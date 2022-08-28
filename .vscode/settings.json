@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/060fb014-ec73-4c51-a821-306cd0e9e067/microsoft.web/sites/subscriptions/060fb014-ec73-4c51-a821-306cd0e9e067/resourceGroups/CodeEx/providers/Microsoft.Web/sites/CodeEx",
+  "appService.deploySubpath": "build"
+}
