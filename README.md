@@ -170,12 +170,12 @@ Under **Azure Web Service**, right click on the frontend app service and "**Depl
 
 ### In the project directory, you can run:
 
-__npm start__
+__npm start__  
 _Runs the app in the development mode._  
 
-__npm test__
+__npm test__  
 _Launches the test runner in the interactive watch mode._  
 
-__npm run build__
+__npm run build__  
 _Builds the app for production to the `build` folder._  
 _It correctly bundles React in production mode and optimizes the build for the best performance._
