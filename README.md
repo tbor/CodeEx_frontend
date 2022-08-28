@@ -168,17 +168,14 @@ Under **Azure Web Service**, right click on the frontend app service and "**Depl
 
 ## Available Scripts
 
-In the project directory, you can run:
+### In the project directory, you can run:
 
-### `npm start`
+__npm start__
+_Runs the app in the development mode._  
 
-Runs the app in the development mode.\
+__npm test__
+_Launches the test runner in the interactive watch mode._  
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+__npm run build__
+_Builds the app for production to the `build` folder._  
+_It correctly bundles React in production mode and optimizes the build for the best performance._
