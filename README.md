@@ -30,7 +30,7 @@ Just as the UI and styling are unimportant at this stage, in the absence of furt
 
 ### Auth0
 
-- When logging on for the first time and creating an account, the Auth0 sign-up page has a field for coordinator. This field is for demonstration purposes only and would probably not be included in any final App, where a site administrator (presumably) would identify/authorize the coordinators. Enter "True" or "Yes" to make the account a coordinator. Coordinators are also allowed to be event attendees for events others have created, so a single coordinator account will you to observe most current functionality.
+- When logging on for the first time and creating an account, the Auth0 sign-up page has a field for coordinator. This field is for demonstration purposes only and would probably not be included in any final App, where a site administrator (presumably) would identify/authorize the coordinators. Enter "True" or "Yes" to make the account a coordinator. Coordinators are also allowed to be event attendees for events others have created, so a single coordinator account will allow you to observe most current functionality.
 
 ### Demo
 
