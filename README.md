@@ -2,7 +2,7 @@
 
 ## About the project
 
-This app has been created to submit for a coding challenge. The challenge is to create a cross-platform (Windows, Linux, Mac) Event Management web application, with a frontend employing either Angular or ReactJS, and TypeScript. The backend is .NET Core with C#.
+This frontend app has been created to submit for a coding challenge. The challenge is to create a cross-platform (Windows, Linux, Mac) Event Management web application, with a frontend employing either Angular or ReactJS, and TypeScript. The backend is .NET Core with C#, and it is located in the repo at https://github.com/tbor/CodeEx_backend.git.
 
 The requirements beyond that are minimal, with the following user stories:
 
@@ -88,7 +88,7 @@ Just as the UI and styling are unimportant at this stage, in the absence of furt
 
 ### Clone the repo
 
-git clone https://github.com/tbor/CodeEx.git
+git clone https://github.com/tbor/CodeEx_frontend.git
 
 ### Frontend
 
