@@ -46,6 +46,7 @@ Just as the UI and styling are unimportant at this stage, in the absence of furt
 
 - Visual Studio 2022
 - Visual Studio Code (version 1.70)
+- SQL Server 15
 - SQL Server Management Studio 19
 
 ### Frontend
